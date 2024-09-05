@@ -5,18 +5,6 @@
 
 ```<li>``` - 리스트의 내용 (list)
 
-<style>
-  table {
-    border: 1px solid #ccc;
-    border-collapse: collapse;
-    text-align: center;
-  }
-  td,th {
-    border: 1px solid #ccc;
-    padding: 10px;
-  }
-</style>
-
 ### \<ol> 태그의 type, start 속성
 <table>
     <tbody>
