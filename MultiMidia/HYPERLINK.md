@@ -22,4 +22,4 @@
   </tbody>
 </table>
 
-* ### [하이퍼링크 사용 예시](./MULTIMIDIA.html)
+* ### [하이퍼링크 사용 예시](./MultiMidiaEx.html)

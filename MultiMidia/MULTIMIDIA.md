@@ -50,4 +50,4 @@
   </tbody>
 </table>
 
-* ### [멀티미디어 사용 예시](./MULTIMIDIA.html)
+* ### [멀티미디어 사용 예시](./MultiMidiaEx.html)
