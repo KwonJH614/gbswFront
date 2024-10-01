@@ -52,7 +52,7 @@
 ## ```<input>```
 * 사용자로부터 데이터를 입력받는 태그이다
 
-<img src="../img/InputTypes.png" width="300px">
+<img src="./InputTypes.png" width="300px">
   
 ## ```<input>``` 태그 이외에 여러가지 태그
 <table>
