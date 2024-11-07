@@ -49,7 +49,7 @@
 ```
 
 #### test.css
-``` 
+``` css
 h1 {
     color : red;
 }
@@ -60,8 +60,7 @@ h1 {
 * 기본적으로 텍스트 관련 속성( 예 :  ```color```, ```font-family``` )은 자식 요소에 상속되지만 레이아웃 관련 속성 ( 예 : ```margin```, `width`, ```height``` )은 상속되지 않는다
 
 * 상속되지 않는 속성도 ```inherit``` 키워드를 사용해 명시적으로 사용할 수 있다
-```
-<style>
+``` css
   div {
     width: 200px;
     background-color: lightblue;
@@ -70,5 +69,4 @@ h1 {
     width: inherit;
     background-color: inherit;
   }
-</style>
 ```
