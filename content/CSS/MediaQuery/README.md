@@ -26,4 +26,4 @@
         * `device-width, device-height` : 디바이스의 물리적 너비, 높이 (단위 : px)
         * `orientation` : 디바이스 방향 (가로 방향 - landscape / 세로 방향 - portrait)
 
-* ### [media query 사용예시](./MediaQuery.html)
+* ### [미디어 쿼리리 사용예시](./MediaQuery.html)

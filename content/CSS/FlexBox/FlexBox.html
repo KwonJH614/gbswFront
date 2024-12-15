@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    .container {
+      width: 700px;
+      background-color: #eee;
+      display: flex;
+      border: 1px solid black;
+      margin: 20px auto;
+    }
+    .draw {
+      width: 50px;
+      padding: 20px 45px;
+      margin: 5px;
+      text-align: center;
+    }
+    .draw:nth-child(odd) {
+      background-color: #e9c46a;
+    }
+    .draw:nth-child(even) {
+      background-color: #e76f52;
+    }
+
+    #opt1 { flex-direction: row; }
+    #opt2 { flex-direction: row-reverse; }
+    #opt3 { flex-direction: column; }
+    #opt4 { flex-direction: column-reverse; }
+  </style>
+</head>
+<body>
+  <div class="container" id="opt1">
+    <div class="draw">1</div>
+    <div class="draw">2</div>
+    <div class="draw">3</div>
+  </div>
+  <div class="container" id="opt2">
+    <div class="draw">1</div>
+    <div class="draw">2</div>
+    <div class="draw">3</div>
+  </div>
+  <div class="container" id="opt3">
+    <div class="draw">1</div>
+    <div class="draw">2</div>
+    <div class="draw">3</div>
+  </div>
+  <div class="container" id="opt4">
+    <div class="draw">1</div>
+    <div class="draw">2</div>
+    <div class="draw">3</div>
+  </div>
+</body>
+</html>

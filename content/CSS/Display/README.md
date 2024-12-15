@@ -44,5 +44,5 @@ body {
     * 요소를 일반적인 문서 흐름에서 제거하고, 페이지 레이아웃에 공간도 차지하지 않는다
     * 스크롤해도 움직이지 않는다
 
-* ### [dispaly 사용예시](./Display.html)
-* ### [float 사용예시](./Float.html)
+* ### [요소 배치 사용예시 (dispaly)](./Display.html)
+* ### [요소 배치 사용예시 (float)](./Float.html)
